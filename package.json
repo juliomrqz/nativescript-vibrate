@@ -1,0 +1,22 @@
+{
+  "name": "nativescript-vibrate",
+  "version": "0.1.0",
+  "description": "A vibrate NativeScript module for Android and iOS",
+  "main": "vibrate.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anarchicknight/nativescript-vibrate.git"
+  },
+  "keywords": [
+    "NativeScript"
+  ],
+  "author": "Anarchic Knight <anarchicknight@gmail.com> (http://www.anarchicknight.co.uk)",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/anarchicknight/nativescript-vibrate/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/anarchicknight/nativescript-vibrate/issues"
+  },
+  "homepage": "https://github.com/anarchicknight/nativescript-vibrate"
+}
