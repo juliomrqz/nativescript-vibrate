@@ -1,6 +1,6 @@
 {
   "name": "nativescript-vibrate",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A vibrate NativeScript module for Android and iOS",
   "main": "vibrate.js",
   "repository": {

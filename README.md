@@ -4,7 +4,7 @@ A vibrate NativeScript module for Android and iOS
 
 ## Installation
 
-Run `npm install nativescript-flashlight --save` from your project's inner `app` directory:
+Run `npm install nativescript-vibrate --save` from your project's inner `app` directory:
 
 ```
 .
