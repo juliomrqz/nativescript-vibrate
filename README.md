@@ -55,7 +55,7 @@ To use the vibrate module you must first `require()` it from your project's `nod
 var vibrator = require( "./node_modules/nativescript-vibrate/vibrate" );
 ```
 
-After you have a reference to the module you can then call its `vibration(milliseconds)` methods. For example, the code below turns your device's flashlight on:
+After you have a reference to the module you can then call its `vibration(milliseconds)` method.
 
 ```js
 // my-page.js
