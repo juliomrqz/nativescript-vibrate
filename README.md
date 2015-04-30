@@ -1,3 +1,5 @@
+## This repo has not yet been updated to work with the latest Nativescript release 1.0.0
+
 # NativeScript Vibrate
 
 A vibrate NativeScript module for Android and iOS
