@@ -73,3 +73,7 @@ A sample barebones project is included with the repo (does not include the nativ
 * Add the platforms that you wish to use (tns platform add {android or ios})
 * If you added Android as a platform add the appropriate permission to AndroidManifest.xml
 * You should now be able to run the sample as usual (tns run {android or ios})
+
+## TODO
+
+- [ ] Add support for vibration patterns in Android (iOS does not support this feature)
