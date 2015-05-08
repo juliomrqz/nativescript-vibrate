@@ -1,3 +1,4 @@
 .DS_Store
-VibrateDemo/lib/
-VibrateDemo/platforms/
+Demo/lib/
+Demo/platforms/
+npm-debug.log
