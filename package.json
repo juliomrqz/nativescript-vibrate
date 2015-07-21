@@ -1,8 +1,14 @@
 {
   "name": "nativescript-vibrate",
-  "version": "1.0.3",
-  "description": "A vibrate NativeScript module for Android and iOS",
+  "version": "1.1.0",
+  "description": "A vibrate NativeScript plugin for Android and iOS",
   "main": "vibrate.js",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.1.2",
+      "android": "1.1.0"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/anarchicknight/nativescript-vibrate.git"
@@ -18,6 +24,5 @@
   "bugs": {
     "url": "https://github.com/anarchicknight/nativescript-vibrate/issues"
   },
-  "homepage": "https://github.com/anarchicknight/nativescript-vibrate",
-  "dependencies": {}
+  "homepage": "https://github.com/anarchicknight/nativescript-vibrate"
 }

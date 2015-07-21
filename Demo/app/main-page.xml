@@ -1,5 +1,0 @@
-<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
-  <StackLayout>
-    <Button text="Vibrate" tap="{{ vibrateAction }}" />
-  </StackLayout>
-</Page>
