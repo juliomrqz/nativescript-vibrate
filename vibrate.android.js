@@ -1,12 +1,13 @@
 var app = require("application");
-var context = android.content.Context;
-var vibrator_service = app.android.context.getSystemService(context.VIBRATOR_SERVICE);
 
 var vibrator = {
 	vibration : function(milliseconds){
-		if(vibrator_service.hasVibrator()){
+		if(!this.vibrator_service){
+			this.vibrator_service = app.android.context.getSystemService(android.content.Context.VIBRATOR_SERVICE);
+		}
+		if(this.vibrator_service.hasVibrator()){
 			milliseconds = typeof milliseconds !== 'undefined' ? milliseconds : 500;
-			vibrator_service.vibrate(milliseconds);
+			this.vibrator_service.vibrate(milliseconds);
 		}
 	}
 };
