@@ -1,3 +1,5 @@
+## 08/01/2017 - This project is no longer actively maintained. It will remain here so it can still be used but there will be no further updates or bug fixes. If another user wants to consider taking ownership of the repo then please contact me
+
 # NativeScript Vibrate
 
 A vibrate NativeScript plugin for Android and iOS
