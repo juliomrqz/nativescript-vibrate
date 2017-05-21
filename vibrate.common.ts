@@ -12,8 +12,10 @@ export class Common extends Observable {
     super();
   }
 
-  vibrate(time?: number) { }
-  
+  vibrate(time?: number | number[], repeat?: number) { }
+
+  cancel(): void { }
+
   hasVibrator(): boolean {
     return true;
   }

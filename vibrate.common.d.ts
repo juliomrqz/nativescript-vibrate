@@ -5,6 +5,7 @@ export declare class Common extends Observable {
      */
     service: any;
     constructor();
-    vibrate(time?: number): void;
+    vibrate(time?: number | number[], repeat?: number): void;
+    cancel(): void;
     hasVibrator(): boolean;
 }
