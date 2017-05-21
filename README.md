@@ -53,7 +53,3 @@ vibrator.vibration(2000);
 #### iOS
 
 There is no API to vibrate for a specific amount of time, so it will vibrate for the default no matter what (the duration is ignored).
-
-## TODO
-
-- [ ] Add support for vibration patterns in Android (iOS does not support this feature)

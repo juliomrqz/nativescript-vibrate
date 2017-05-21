@@ -1,6 +1,7 @@
-declare module 'nativescript-vibrate' {
-	/**
-	 *iOS - There is no API to vibrate for a specific amount of time, so it will vibrate for the default no matter what (the duration is ignored)
-	 */
-	export function vibration(milliseconds: number);
+import { Common } from './vibrate.common';
+
+export declare class Vibrate extends Common {
+  // define your typings manually
+  // or..
+  // use take the ios or android .d.ts files and copy/paste them here
 }

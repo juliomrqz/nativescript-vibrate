@@ -1,4 +1,8 @@
-.DS_Store
-Demo/
-local_demo/
-npm-debug.log
+demo/
+screenshots/
+*.gif
+*.png
+*.log
+*.map
+*.ts
+!*.d.ts
