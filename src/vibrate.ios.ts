@@ -1,4 +1,4 @@
-import {Common} from './vibrate.common';
+import { Common } from './vibrate.common';
 
 export class Vibrate extends Common {
     vibrate() {

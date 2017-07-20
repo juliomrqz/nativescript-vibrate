@@ -1,8 +1,5 @@
-import { Observable } from 'data/observable';
+import { Observable } from 'tns-core-modules/data/observable';
 export declare class Common extends Observable {
-    /**
-     * Gets or set the vibration service.
-     */
     service: any;
     constructor();
     vibrate(time?: number | number[], repeat?: number): void;

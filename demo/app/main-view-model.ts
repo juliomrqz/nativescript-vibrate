@@ -1,5 +1,5 @@
-import {Observable} from 'data/observable';
-import {Vibrate} from 'nativescript-vibrate';
+import { Observable } from 'tns-core-modules/data/observable';
+import { Vibrate } from 'nativescript-vibrate';
 
 export class HelloWorldModel extends Observable {
   public message: string;
@@ -9,6 +9,5 @@ export class HelloWorldModel extends Observable {
     super();
 
     this.vibrate = new Vibrate();
-    this.message = this.vibrate.message;
   }
 }

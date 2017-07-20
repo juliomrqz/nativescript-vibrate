@@ -1,13 +1,12 @@
 var Vibrate = require("nativescript-vibrate").Vibrate;
 var vibrate = new Vibrate();
 
-// TODO replace 'functionname' with an acual function name of your plugin class and run with 'npm test <platform>'
-describe("functionname", function() {
-  it("exists", function() {
-    expect(vibrate.functionname).toBeDefined();
-  });
+describe("greet function", function () {
+    it("exists", function () {
+        expect(vibrate.greet).toBeDefined();
+    });
 
-  it("returns a promise", function() {
-    expect(vibrate.functionname()).toEqual(jasmine.any(Promise));
-  });
+    it("returns a string", function () {
+        expect(vibrate.greet()).toEqual("Hello, NS");
+    });
 });
