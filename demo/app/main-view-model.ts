@@ -17,23 +17,23 @@ export class VibrateModel extends Observable {
   basicVibrate(eventData) {
     console.log('Basic vibrate');
     this.vibrator.vibrate();
-  };
+  }
 
   // One seconds vibration
   oneSecondVibrate(eventData) {
     this.vibrator.vibrate(1000);
     console.log('1 seconds vibrate');
-  };
+  }
 
   // Pattern vibration
   patternVibrate(eventData) {
     this.vibrator.vibrate([1000, 300, 500, 2000]);
     console.log('Pattern vibrate');
-  };
+  }
 
   // Cancel vibration
   cancelVibrate(eventData) {
     this.vibrator.cancel();
     console.log('Cancel vibrate');
-  };
+  }
 }
