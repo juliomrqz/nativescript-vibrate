@@ -1,12 +1,24 @@
 var Vibrate = require("nativescript-vibrate").Vibrate;
 var vibrate = new Vibrate();
 
-describe("greet function", function () {
+describe("vibrate function", function () {
     it("exists", function () {
-        expect(vibrate.greet).toBeDefined();
+        expect(vibrate.vibrate).toBeDefined();
+    });
+});
+
+describe("cancel function", function () {
+    it("exists", function () {
+        expect(vibrate.cancel).toBeDefined();
+    });
+});
+
+describe("hasVibrator function", function () {
+    it("exists", function () {
+        expect(vibrate.hasVibrator).toBeDefined();
     });
 
-    it("returns a string", function () {
-        expect(vibrate.greet()).toEqual("Hello, NS");
+    it("returns a boolean", function () {
+        expect(vibrate.hasVibrator()).toEqual(true);
     });
 });

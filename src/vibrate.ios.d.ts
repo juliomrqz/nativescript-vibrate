@@ -1,4 +1,6 @@
 import { Common } from './vibrate.common';
 export declare class Vibrate extends Common {
-    vibrate(): void;
+    hasVibrator(): boolean;
+    vibrate(param: number | number[], repeat: number): void;
+    cancel(): void;
 }

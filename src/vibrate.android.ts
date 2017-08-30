@@ -18,7 +18,7 @@ export class Vibrate extends Common {
                 this.service.vibrate(param);
             } else {
                 let pattern = Array.create('long', param.length);
-                pattern.forEach((element, index) => { pattern[index] = element });
+                pattern.forEach((element, index) => { pattern[index] = element; });
 
                 this.service.vibrate(pattern, repeat);
             }
@@ -28,5 +28,4 @@ export class Vibrate extends Common {
     cancel() {
         this.service.cancel();
     }
-
 }

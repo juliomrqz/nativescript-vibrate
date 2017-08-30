@@ -11,7 +11,7 @@
   "dependencies": {
     "nativescript-theme-core": "^1.0.4",
     "nativescript-unit-test-runner": "^0.3.4",
-    "nativescript-vibrate": "../src",
+    "nativescript-vibrate": "file:../src",
     "tns-core-modules": "^3.1.0"
   },
   "devDependencies": {

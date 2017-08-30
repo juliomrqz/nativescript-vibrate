@@ -37,15 +37,22 @@ To use the vibrate functionality on Android your app must request permission acc
 To use the vibrate module you must first `require()` it:
 
 ```js
-var vibrator = require("nativescript-vibrate");
+var Vibrate = require("nativescript-vibrate").Vibrate;
+var vibrator = new Vibrate();
 ```
 
-After you have a reference to the module you can then call its `vibration(milliseconds)` method.
+If you use Typescript, you can require it this way:
+
+```typescript
+import { Vibrate } from 'nativescript-vibrate';
+let vibrator = new Vibrate();
+```
+
+After you have a reference to the module you can then call its `vibrate(milliseconds)` method.
 
 ```js
 // my-page.js
-var vibrator = require("nativescript-vibrate");
-vibrator.vibration(2000);
+vibrator.vibrate(2000);
 ```
 
 ### Notes
@@ -76,3 +83,8 @@ npm run test.ios
 npm run test.android
 ```
 
+### Clean plugin and demo files
+
+Sometimes you may need to wipe away the `node_modules` and `demo/platforms` folders to reinstall them fresh.
+
+1. Run `npm run clean` to wipe those clean then you can can run `npm i` to install fresh dependencies.
