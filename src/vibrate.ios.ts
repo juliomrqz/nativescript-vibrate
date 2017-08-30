@@ -5,7 +5,7 @@ export class Vibrate extends Common {
         return true;
     }
 
-    vibrate(param: number | number[], repeat: number) {
+    vibrate(time: number | number[], repeat: number) {
         AudioServicesPlaySystemSound(kSystemSoundID_Vibrate);
     }
 

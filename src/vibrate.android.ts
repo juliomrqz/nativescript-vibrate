@@ -1,7 +1,6 @@
 import { Common } from './vibrate.common';
 
 export class Vibrate extends Common {
-
     constructor() {
         super();
 
