@@ -17,9 +17,16 @@ export class Vibrate extends Common {
             if (typeof param === "number") {
                 this.service.vibrate(param);
             } else {
-                let pattern = Array.create('long', param.length);
-                pattern.forEach((element, index) => { pattern[index] = element; });
+                // Define array pattern length
+                const patternLength = param.length;
 
+                // Create the pattern array
+                let pattern = Array.create('long', patternLength);
+
+                // Assign the pattern values
+                param.forEach((value, index) => { pattern[index] = value; });
+
+                // Vibrate pattern
                 this.service.vibrate(pattern, repeat);
             }
         }
