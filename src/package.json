@@ -38,6 +38,10 @@
     "bugs": {
         "url": "https://github.com/bazzite/nativescript-vibrate/issues"
     },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bazzite/nativescript-vibrate.git"
+    },
     "license": "MIT",
     "homepage": "https://github.com/bazzite/nativescript-vibrate",
     "readmeFilename": "README.md",
