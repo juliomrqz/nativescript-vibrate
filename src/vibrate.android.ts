@@ -1,4 +1,5 @@
 import { Common } from './vibrate.common';
+import * as app from 'tns-core-modules/application';
 
 export class Vibrate extends Common {
     constructor() {
