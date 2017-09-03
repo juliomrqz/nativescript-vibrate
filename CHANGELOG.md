@@ -23,7 +23,7 @@
 - Fix an issue when loading the module before context is available [\#1](https://github.com/bazzite/nativescript-vibrate/pull/1) ([naderio](https://github.com/naderio))
 
 ## [1.1.0](https://github.com/bazzite/nativescript-vibrate/tree/1.1.0) (2015-07-21)
-- Migrating to a new proyect architecture
+- Migrating to a new project architecture
 
 
 ## [1.0.3](https://github.com/bazzite/nativescript-vibrate/tree/1.0.3) (2015-05-08)
