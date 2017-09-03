@@ -18,9 +18,8 @@ Run the following command from the root of your project:
 $ tns plugin add nativescript-vibrate
 ```
 
-This command automatically installs the necessary files, as well as stores nativescript-texttospeech as a dependency in your project's package.json file.
+This command automatically installs the necessary files, as well as stores **nativescript-vibrate** as a dependency in your project's **package.json** file.
 
-Due to a current open issue with NativeScript, [#669](https://github.com/NativeScript/nativescript-cli/issues/669), the plugin needs to be added before adding any platforms with the `tns add platform` command.
 
 ## Permissions
 
@@ -41,7 +40,7 @@ var Vibrate = require("nativescript-vibrate").Vibrate;
 var vibrator = new Vibrate();
 ```
 
-If you use Typescript, you can require it this way:
+If you use Typescript, you can import it this way:
 
 ```typescript
 import { Vibrate } from 'nativescript-vibrate';
@@ -53,6 +52,13 @@ After you have a reference to the module you can then call its `vibrate(millisec
 ```js
 // my-page.js
 vibrator.vibrate(2000);
+```
+
+If you prefer to use a vibrator pattern, you could try:
+
+```js
+// my-page.js
+vibrator.vibrate([1000, 300, 500, 2000]);
 ```
 
 ### Notes
