@@ -54,7 +54,7 @@ After you have a reference to the module you can then call its `vibrate(millisec
 vibrator.vibrate(2000);
 ```
 
-If you prefer to use a vibrator pattern, you could try:
+If you prefer to use a vibration pattern, you could try:
 
 ```js
 // my-page.js
@@ -65,4 +65,4 @@ vibrator.vibrate([1000, 300, 500, 2000]);
 
 #### iOS
 
-There is no API to vibrate for a specific amount of time, so it will vibrate for the default no matter what (the duration is ignored).
+There is no API to vibrate for a specific **amount of time** or **vibration pattern**, so it will vibrate for the default period of time no matter what.
