@@ -43,14 +43,8 @@ captures/
 .idea/dictionaries
 .idea/libraries
 
-# Keystore files
-*.jks
-
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
 
 # Freeline
 freeline.py
@@ -121,8 +115,6 @@ obj/
 .idea/dynamic.xml
 .idea/uiDesigner.xml
 
-# Keystore files
-
 # OS-specific files
 .DS_Store
 .DS_Store?
@@ -140,7 +132,6 @@ Thumbs.db
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
@@ -165,7 +156,6 @@ crashlytics-build.properties
 fabric.properties
 
 ### AndroidStudio Patch ###
-# Google Services plugin
 
 !/gradle/wrapper/gradle-wrapper.jar
 
@@ -308,6 +298,7 @@ GitHub.sublime-settings
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+.history
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -509,9 +500,11 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
-# TODO: Comment the next line if you want to checkin your web deploy settings
-# but database connection strings (with potential passwords) will be unencrypted
-*.pubxml
+# TODO: Uncomment the next line to ignore your web deploy settings.
+# By default, sensitive information, such as encrypted password
+# should be stored in the .pubxml.user file.
+#*.pubxml
+*.pubxml.user
 *.publishproj
 
 # Microsoft Azure Web App publish settings. Comment the next line if you want to
@@ -644,6 +637,10 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+### VisualStudio Patch ###
+# By default, sensitive information, such as encrypted password
+# should be stored in the .pubxml.user file.
 
 # End of https://www.gitignore.io/api/git,node,macos,linux,xcode,android,windows,sublimetext,visualstudio,androidstudio,visualstudiocode
 
