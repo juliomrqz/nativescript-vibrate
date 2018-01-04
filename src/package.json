@@ -24,7 +24,7 @@
         "plugin.prepare": "npm run tsc && cd ../demo && tns plugin remove nativescript-vibrate && tns plugin add ../src",
         "clean": "cd ../demo && rimraf hooks node_modules platforms && cd ../src && rimraf node_modules && npm run plugin.link",
         "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**'",
-        "compodoc": "cd .. ./src/node_modules/.bin/compodoc -p src/tsconfig.json -d ./docs/ -n 'NativeScript Vibrate'"
+        "compodoc": "cd .. ./src/node_modules/.bin/compodoc -p src/tsconfig.json -d ./docs-temp/ -n 'NativeScript Vibrate'"
     },
     "keywords": [
         "NativeScript",
