@@ -2,6 +2,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a40541d66db746bcb6669b7f30fd498d)](https://www.codacy.com/app/bazzite/nativescript-vibrate?utm_source=github.com&utm_medium=referral&utm_content=bazzite/nativescript-vibrate&utm_campaign=badger)
 [![Travis](https://img.shields.io/travis/bazzite/nativescript-vibrate.svg)](https://travis-ci.org/bazzite/nativescript-vibrate)
 [![Dependency Status](https://gemnasium.com/badges/github.com/bazzite/nativescript-vibrate.svg)](https://gemnasium.com/github.com/bazzite/nativescript-vibrate)
+[![Open Source Helpers](https://www.codetriage.com/bazzite/nativescript-vibrate/badges/users.svg)](https://www.codetriage.com/bazzite/nativescript-vibrate)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/bazzite/nativescript-vibrate/develop/LICENSE)
 
 # NativeScript Vibrate
