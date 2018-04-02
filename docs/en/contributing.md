@@ -2,6 +2,9 @@
 title: Contributing
 description: For easier development and debugging purposes continue with the following steps.
 order: 2
+dateCreated: 2017-08-31T11:46:00-04:00
+dateModified: 2017-08-31T11:46:00-04:00
+datePublished: 2018-02-27
 ---
 
 # Contributing
