@@ -1,5 +1,10 @@
 # Change Log
 
+## [v2.0.2](https://github.com/bazzite/nativescript-vibrate/tree/v2.0.2) (2017-04-02)
+
+- Improve Documentation
+- Minor fixes and Improvements
+
 ## [v2.0.1](https://github.com/bazzite/nativescript-vibrate/tree/v2.0.1) (2017-08-31)
 
 **Android**
