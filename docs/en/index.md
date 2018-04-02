@@ -3,7 +3,7 @@ title: Overview
 description: A vibrate NativeScript plugin for Android and iOS
 order: 1
 dateCreated: 2015-04-11T12:25:00-04:30
-dateModified: 2017-09-04T14:36:00-04:00
+dateModified: 2017-04-01T16:27:00-04:00
 datePublished: 2018-02-27
 ---
 
@@ -67,3 +67,12 @@ vibrator.vibrate([1000, 300, 500, 2000]);
 #### iOS
 
 There is no API to vibrate for a specific **amount of time** or **vibration pattern**, so it will vibrate for the default period of time no matter what.
+
+## API
+
+Only one method is available: `vibrate().` Below are all the supported properties you can play around:
+
+| Property | Default | Description | Android | iOS |
+| :-: | :-: | :-: | :-: | :-: |
+| time | 300 | The number of milliseconds to vibrate. It can be also an array of longs of times for which to turn the vibrator on or off. | ✔︎ | ✘ |
+| repeat | -1 | The index into pattern at which to repeat, or -1 if you don't want to repeat. | ✔︎ | ✘ |

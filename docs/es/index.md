@@ -3,7 +3,7 @@ title: Información general
 description: Un plugin para NativeScript que facilita la vibración de dispositivos Android e iOS
 order: 1
 dateCreated: 2015-04-11T12:25:00-04:30
-dateModified: 2017-09-04T14:36:00-04:00
+dateModified: 2017-04-01T16:27:00-04:00
 datePublished: 2018-02-27
 ---
 
@@ -54,7 +54,7 @@ Después de tener una referencia al módulo, puede llamar a su método `vibrate(
 vibrator.vibrate(2000);
 ```
 
-Si prefiere usar un patrón de vibración, puedes intentar:
+Si prefieres usar un patrón de vibración, puedes intentar:
 
 ```js
 // my-page.js
@@ -66,3 +66,12 @@ vibrator.vibrate([1000, 300, 500, 2000]);
 #### iOS
 
 No hay una API para vibrar durante una **cantidad de tiempo** o un **patrón de vibración**, por lo que vibrará durante el período de tiempo predeterminado no importa lo que pase.
+
+## API
+
+Solo hay un método disponible: `vibrate()`, con las siguientes propiedades:
+
+| Propiedad | Valor Predeterminado | Descripción | Android | iOS |
+| :-: | :-: | :-: | :-: | :-: |
+| time | 300 | La cantidad en milisegundos para hacer vibrar el dispositivo. También puede ser un arreglo de ***longs*** para activar o desactivar el vibrador. | ✔︎ | ✘ |
+| repeat | -1 | El índice que indica cuantas veces se debe repetir la vibración, o -1 si no deseas repetir. | ✔︎ | ✘ |
