@@ -1,4 +1,4 @@
-[![Bazzite Project](https://img.shields.io/badge/Bazzite-project-blue.svg?style=flat-square)](https://www.bazzite.com/docs/nativescript-vibrate)
+[![Bazzite Project](https://img.shields.io/badge/Bazzite-project-blue.svg?style=flat-square)](https://www.bazzite.com/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate)
 [![Codacy Badge](https://img.shields.io/codacy/grade/a40541d66db746bcb6669b7f30fd498d.svg?style=flat-square)](https://www.codacy.com/app/bazzite/nativescript-vibrate?utm_source=github.com&utm_medium=referral&utm_content=bazzite/nativescript-vibrate&utm_campaign=badger)
 [![Travis](https://img.shields.io/travis/bazzite/nativescript-vibrate.svg?style=flat-square)](https://travis-ci.org/bazzite/nativescript-vibrate)
 [![version](https://img.shields.io/npm/v/nativescript-vibrate.svg?style=flat-square)](https://www.npmjs.com/package/nativescript-vibrate)
@@ -14,7 +14,7 @@ A vibrate NativeScript plugin for Android and iOS
 
 Run the following command from the root of your project:
 
-```
+```bash
 $ tns plugin add nativescript-vibrate
 ```
 
@@ -97,7 +97,7 @@ Everyone participating in this project is expected to agree to abide by the [Cod
 
 ## License
 
-Code released under the  [MIT License][license-page].
+Code released under the [MIT License][license-page].
 
 
 [documentation]: https://www.bazzite.com/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
