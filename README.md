@@ -1,6 +1,6 @@
 [![Bazzite Project](https://img.shields.io/badge/Bazzite-project-blue.svg?style=flat-square)](https://www.bazzite.com/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate)
 [![Codacy Badge](https://img.shields.io/codacy/grade/a40541d66db746bcb6669b7f30fd498d.svg?style=flat-square)](https://www.codacy.com/app/bazzite/nativescript-vibrate?utm_source=github.com&utm_medium=referral&utm_content=bazzite/nativescript-vibrate&utm_campaign=badger)
-[![Travis](https://img.shields.io/travis/bazzite/nativescript-vibrate.svg?style=flat-square)](https://travis-ci.org/bazzite/nativescript-vibrate)
+[![Travis](https://img.shields.io/travis/bazzite/nativescript-vibrate/master.svg?style=flat-square)](https://travis-ci.org/bazzite/nativescript-vibrate)
 [![version](https://img.shields.io/npm/v/nativescript-vibrate.svg?style=flat-square)](https://www.npmjs.com/package/nativescript-vibrate)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://www.bazzite.com/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate)
 
