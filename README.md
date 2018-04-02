@@ -66,6 +66,14 @@ vibrator.vibrate([1000, 300, 500, 2000]);
 
 There is no API to vibrate for a specific **amount of time** or **vibration pattern**, so it will vibrate for the default period of time no matter what.
 
+## API
+
+Only one method is available: `vibrate().` Below are all the supported properties you can play around.
+
+| Property | Default | Description | Android | iOS |
+| :-: | :-: | :-: | :-: | :-: |
+| time | 300 | The number of milliseconds to vibrate. It can be also an array of longs of times for which to turn the vibrator on or off. | ✔︎ | ✘ |
+| repeat | -1 | The index into pattern at which to repeat, or -1 if you don't want to repeat. | ✔︎ | ✘ |
 
 ## Documentation & Support
 
