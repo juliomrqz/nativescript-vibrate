@@ -1,6 +1,6 @@
 {
     "name": "nativescript-vibrate",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "A vibrate NativeScript plugin for Android and iOS",
     "main": "vibrate",
     "typings": "index.d.ts",
@@ -44,7 +44,7 @@
         "url": "git://github.com/bazzite/nativescript-vibrate.git"
     },
     "license": "MIT",
-    "homepage": "https://github.com/bazzite/nativescript-vibrate",
+    "homepage": "https://www.bazzite.com/docs/nativescript-vibrate",
     "readmeFilename": "README.md",
     "devDependencies": {
         "prompt": "^1.0.0",
