@@ -24,7 +24,7 @@
         "plugin.prepare": "npm run tsc && cd ../demo && tns plugin remove nativescript-vibrate && tns plugin add ../src",
         "clean": "cd ../demo && rimraf hooks node_modules platforms && cd ../src && rimraf node_modules && npm run plugin.link",
         "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**'",
-        "compodoc": "cd .. ./src/node_modules/.bin/compodoc -p src/tsconfig.json -d ./docs-temp/ -n 'NativeScript Vibrate'"
+        "prepare": "node scripts/prepare.js"
     },
     "keywords": [
         "NativeScript",
@@ -47,13 +47,13 @@
     "homepage": "https://github.com/bazzite/nativescript-vibrate",
     "readmeFilename": "README.md",
     "devDependencies": {
-        "@compodoc/compodoc": "^1.0.4",
         "prompt": "^1.0.0",
-        "rimraf": "^2.6.2",
+        "rimraf": "^2.5.0",
+        "semver": "^5.5.0",
         "tns-core-modules": "^3.3.0",
         "tns-platform-declarations": "^3.3.0",
-        "tslint": "^5.8.0",
-        "typescript": "~2.6.1"
+        "tslint": "^5.0.0",
+        "typescript": "~2.3.0"
     },
     "dependencies": {},
     "bootstrapper": "nativescript-plugin-seed"
