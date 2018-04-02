@@ -3,11 +3,16 @@ title: Change Log
 description: A record of all notable changes made to NativeScript Vibrate.
 order: 3
 dateCreated: 2017-09-02T08:33:00-04:00
-dateModified: 2017-09-02T08:48:00-04:00
+dateModified: 2018-04-02T16:50:00-04:00
 datePublished: 2018-02-27
 ---
 
 # Change Log
+
+## [v2.0.2](https://github.com/bazzite/nativescript-vibrate/tree/v2.0.2) (2017-04-02)
+
+- Improve Documentation
+- Minor fixes and Improvements
 
 ## [v2.0.1](https://github.com/bazzite/nativescript-vibrate/tree/v2.0.1) (2017-08-31)
 
