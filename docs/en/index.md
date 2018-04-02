@@ -72,7 +72,33 @@ There is no API to vibrate for a specific **amount of time** or **vibration patt
 
 Only one method is available: `vibrate().` Below are all the supported properties you can play around:
 
-| Property | Default | Description | Android | iOS |
-| :-: | :-: | :-: | :-: | :-: |
-| time | 300 | The number of milliseconds to vibrate. It can be also an array of longs of times for which to turn the vibrator on or off. | ✔︎ | ✘ |
-| repeat | -1 | The index into pattern at which to repeat, or -1 if you don't want to repeat. | ✔︎ | ✘ |
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th style="text-align:center">Property</th>
+        <th style="text-align:center">Default</th>
+        <th style="text-align:center">Description</th>
+        <th style="text-align:center">Android</th>
+        <th style="text-align:center">iOS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:center">time</td>
+        <td style="text-align:center">300</td>
+        <td style="text-align:center">The number of milliseconds to vibrate. It can be also an array of longs of times for which to turn the vibrator on
+          or off.</td>
+        <td style="text-align:center">✔︎</td>
+        <td style="text-align:center">✘</td>
+      </tr>
+      <tr>
+        <td style="text-align:center">repeat</td>
+        <td style="text-align:center">-1</td>
+        <td style="text-align:center">The index into pattern at which to repeat, or -1 if you don't want to repeat.</td>
+        <td style="text-align:center">✔︎</td>
+        <td style="text-align:center">✘</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
