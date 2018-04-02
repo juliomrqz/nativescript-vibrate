@@ -1,7 +1,10 @@
 ---
 title: Change Log
-description: 
+description: A record of all notable changes made to NativeScript Vibrate.
 order: 3
+dateCreated: 2017-09-02T08:33:00-04:00
+dateModified: 2017-09-02T08:48:00-04:00
+datePublished: 2018-02-27
 ---
 
 # Change Log
