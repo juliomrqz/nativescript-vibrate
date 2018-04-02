@@ -71,7 +71,35 @@ No hay una API para vibrar durante una **cantidad de tiempo** o un **patrón de 
 
 Solo hay un método disponible: `vibrate()`, con las siguientes propiedades:
 
-| Propiedad | Valor Predeterminado | Descripción | Android | iOS |
-| :-: | :-: | :-: | :-: | :-: |
-| time | 300 | La cantidad en milisegundos para hacer vibrar el dispositivo. También puede ser un arreglo de ***longs*** para activar o desactivar el vibrador. | ✔︎ | ✘ |
-| repeat | -1 | El índice que indica cuantas veces se debe repetir la vibración, o -1 si no deseas repetir. | ✔︎ | ✘ |
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th style="text-align:center">Propiedad</th>
+        <th style="text-align:center">Valor Predeterminado</th>
+        <th style="text-align:center">Descripción</th>
+        <th style="text-align:center">Android</th>
+        <th style="text-align:center">iOS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:center">time</td>
+        <td style="text-align:center">300</td>
+        <td style="text-align:center">La cantidad en milisegundos para hacer vibrar el dispositivo. También puede ser un arreglo de
+          <em>
+            <strong>longs</strong>
+          </em> para activar o desactivar el vibrador.</td>
+        <td style="text-align:center">✔︎</td>
+        <td style="text-align:center">✘</td>
+      </tr>
+      <tr>
+        <td style="text-align:center">repeat</td>
+        <td style="text-align:center">-1</td>
+        <td style="text-align:center">El índice que indica cuantas veces se debe repetir la vibración, o -1 si no deseas repetir.</td>
+        <td style="text-align:center">✔︎</td>
+        <td style="text-align:center">✘</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
