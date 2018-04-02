@@ -9,7 +9,7 @@ datePublished: 2018-02-27
 
 # Change Log
 
-## [v2.0.2](https://github.com/bazzite/nativescript-vibrate/tree/v2.0.2) (2017-04-02)
+## [v2.0.2](https://github.com/bazzite/nativescript-vibrate/tree/v2.0.2) (2018-04-02)
 
 - Improve Documentation
 - Minor fixes and Improvements
