@@ -75,7 +75,7 @@ Solo hay un método disponible: `vibrate()`, con las siguientes propiedades:
 | time | 300 | La cantidad en milisegundos para hacer vibrar el dispositivo. También puede ser un arreglo de ***longs*** para activar o desactivar el vibrador. | ✔︎ | ✘ |
 | repeat | -1 | El índice que indica cuantas veces se debe repetir la vibración, o -1 si no deseas repetir. | ✔︎ | ✘ |
 
-## DDocumentación y Soporte
+## Documentación y Soporte
 
 Si deseas detalles extras acerca de como configurar y usar este plugin, la documentación completa está disponible en [https://www.bazzite.com/es/docs/nativescript-vibrate][documentation].
 
