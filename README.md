@@ -3,6 +3,7 @@
 [![Travis](https://img.shields.io/travis/bazzite/nativescript-vibrate/master.svg?style=flat-square)](https://travis-ci.org/bazzite/nativescript-vibrate)
 [![version](https://img.shields.io/npm/v/nativescript-vibrate.svg?style=flat-square)](https://www.npmjs.com/package/nativescript-vibrate)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://www.bazzite.com/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate?ref=badge_shield)
 
 # NativeScript Vibrate
 
@@ -108,3 +109,6 @@ Code released under the [MIT License][license-page].
 [bazzite-website]: https://www.bazzite.com?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 [contact-page]: https://www.bazzite.com/contact?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 [license-page]: https://www.bazzite.com/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate?ref=badge_large)
