@@ -1,5 +1,10 @@
 # Change Log
 
+## [v2.1.0](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.0) (2018-05-07)
+
+- Bump Demo to Nativescript v4
+- Add Support to Nativescript v4
+
 ## [v2.0.2](https://github.com/bazzite/nativescript-vibrate/tree/v2.0.2) (2018-04-02)
 
 - Improve Documentation
