@@ -55,7 +55,7 @@
         "tns-core-modules": "^4.0.0",
         "tns-platform-declarations": "^4.0.0",
         "tslint": "^5.0.0",
-        "typescript": "~2.3.0"
+        "typescript": "~2.7.2"
     },
     "dependencies": {},
     "bootstrapper": "nativescript-plugin-seed"
