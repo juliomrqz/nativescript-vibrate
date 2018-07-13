@@ -3,11 +3,15 @@ title: Registro de cambios
 description: Un registro de todos los cambios notables realizados en NativeScript Vibrate.
 order: 3
 dateCreated: 2017-09-02T08:33:00-04:00
-dateModified: 2018-05-06T10:50:00-04:00
+dateModified: 2018-07-13T13:26:00-04:00
 datePublished: 2018-02-27
 ---
 
 # Registro de cambios
+
+## [v2.1.1](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.1) (2018-07-13)
+
+- Actualización de Mantenimiento
 
 ## [v2.1.0](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.0) (2018-05-06)
 
