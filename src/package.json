@@ -1,6 +1,6 @@
 {
     "name": "nativescript-vibrate",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "description": "A vibrate NativeScript plugin for Android and iOS",
     "main": "vibrate",
     "typings": "index.d.ts",
