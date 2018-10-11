@@ -2,9 +2,6 @@
 title: Overview
 description: A vibrate NativeScript plugin for Android and iOS
 order: 1
-dateCreated: 2015-04-11T12:25:00-04:30
-dateModified: 2017-04-01T16:27:00-04:00
-datePublished: 2018-02-27
 ---
 
 # NativeScript Vibrate

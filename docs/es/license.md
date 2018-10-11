@@ -2,9 +2,6 @@
 title: Licencia
 description: Términos y condiciones destinados a garantizar la forma en que NativeScript Vibrate se debe usar, modificar y/o compartir.
 order: 4
-dateCreated: 2015-04-11T12:25:00-04:30
-dateModified: 2018-06-18T16:58:00-04:00
-datePublished: 2018-02-27
 ---
 
 # Licencia

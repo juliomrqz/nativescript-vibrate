@@ -2,9 +2,6 @@
 title: Contribución
 description: Para facilitar el desarrollo y la depuración, continúe con los siguientes pasos.
 order: 2
-dateCreated: 2017-08-31T11:46:00-04:00
-dateModified: 2017-08-31T11:46:00-04:00
-datePublished: 2018-02-27
 ---
 
 # Contribución

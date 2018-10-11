@@ -2,9 +2,6 @@
 title: Registro de cambios
 description: Un registro de todos los cambios notables realizados en NativeScript Vibrate.
 order: 3
-dateCreated: 2017-09-02T08:33:00-04:00
-dateModified: 2018-07-13T13:26:00-04:00
-datePublished: 2018-02-27
 ---
 
 # Registro de cambios
