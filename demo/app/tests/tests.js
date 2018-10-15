@@ -19,6 +19,6 @@ describe("hasVibrator function", function () {
     });
 
     it("returns a boolean", function () {
-        expect(vibrate.hasVibrator()).toEqual(true);
+        expect(vibrate.hasVibrator()).toBeDefined();
     });
 });
