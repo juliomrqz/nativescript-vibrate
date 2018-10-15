@@ -11,7 +11,7 @@ If your issue doesn't follow the Guidelines above, it will be closed immediately
 
 ## PR Checklist
 
-- [ ] The PR title follows this guidelines: https://github.com/NativeScript/NativeScript/blob/master/CONTRIBUTING.md#commit-messages.
+- [ ] The PR title follows our guidelines: https://github.com/bazzite/nativescript-vibrate/blob/develop/CONTRIBUTING.md.
 - [ ] There is an issue for the bug/feature this PR is for. To avoid wasting your time, it's best to open a suggestion issue first and wait for approval before working on it.
 - [ ] All existing tests are passing
 - [ ] Tests for the changes are included
