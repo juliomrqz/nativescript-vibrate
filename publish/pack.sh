@@ -24,7 +24,6 @@ pack() {
     echo 'Copying Markdown files to /src...'
     node_modules/.bin/ncp "$ROOT_DIR"/LICENSE "$TO_SOURCE_DIR"/LICENSE
     node_modules/.bin/ncp "$ROOT_DIR"/README.md "$TO_SOURCE_DIR"/README.md
-    node_modules/.bin/ncp "$ROOT_DIR"/README.es.md "$TO_SOURCE_DIR"/README.es.md
     node_modules/.bin/ncp "$ROOT_DIR"/CHANGELOG.md "$TO_SOURCE_DIR"/CHANGELOG.md
     node_modules/.bin/ncp "$ROOT_DIR"/CODE_OF_CONDUCT.md "$TO_SOURCE_DIR"/CODE_OF_CONDUCT.md
     node_modules/.bin/ncp "$ROOT_DIR"/CONTRIBUTING.md "$TO_SOURCE_DIR"/CONTRIBUTING.md
