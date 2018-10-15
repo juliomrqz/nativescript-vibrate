@@ -6,6 +6,11 @@ order: 3
 
 # Registro de cambios
 
+## [v2.1.2](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.2) (2018-10-15)
+
+- Actualización de algunas dependencies
+- Corrige la vibración en iOS ([#19](https://github.com/bazzite/nativescript-vibrate/pull/19)), (gracias a [EddyVerbruggen](https://github.com/EddyVerbruggen))
+
 ## [v2.1.1](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.1) (2018-07-13)
 
 - Actualización de Mantenimiento
