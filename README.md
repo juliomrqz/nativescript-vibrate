@@ -9,7 +9,7 @@
 
 A vibrate NativeScript plugin for Android and iOS
 
-*Read this in other languages: [English](README.md), [Español](README.es.md)*
+*Read this in other languages: [English](README.md), [Español][documentation-es]*
 
 ## Installation
 
@@ -102,6 +102,7 @@ Code released under the [MIT License][license-page].
 
 
 [documentation]: https://www.bazzite.com/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
+[documentation-es]: https://www.bazzite.com/es/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 [contributing]: https://www.bazzite.com/docs/nativescript-vibrate/contributing?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 [code-of-conduct]: https://www.bazzite.com/open-source/code-of-conduct?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 [issues]: https://github.com/bazzite/nativescript-vibrate/issues
