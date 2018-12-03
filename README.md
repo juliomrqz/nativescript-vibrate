@@ -6,7 +6,7 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate?ref=badge_shield)
 [![Greenkeeper badge](https://badges.greenkeeper.io/bazzite/nativescript-vibrate.svg)](https://greenkeeper.io/)
 
-# NativeScript Vibrate
+# NativeScript Vibrate ![apple](https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-32.png) ![android](https://cdn4.iconfinder.com/data/icons/logos-3/228/android-32.png) 
 
 A vibrate NativeScript plugin for Android and iOS
 
@@ -85,7 +85,7 @@ For questions and support, use the [Issues section][issues].
 
 You may also want to [follow the company supporting this project on Twitter][twitter].
 
-### Commercial Support
+### Professional Support
 
 This project is sponsored by [Bazzite][bazzite-website]. If you require assistance on your project(s), please contact us at [https://www.bazzite.com/contact][contact-page].
 
@@ -100,6 +100,9 @@ Everyone participating in this project is expected to agree to abide by the [Cod
 ## License
 
 Code released under the [MIT License][license-page].
+
+![](https://ga-beacon.appspot.com/UA-130293414-2/nativescript/nativescript-version-tracking?pixel)
+
 
 
 [documentation]: https://www.bazzite.com/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
