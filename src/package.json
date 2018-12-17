@@ -51,6 +51,8 @@
         "prompt": "^1.0.0",
         "rimraf": "^2.6.2",
         "semver": "^5.5.0",
+        "tns-core-modules": "^5.1.0",
+        "tns-platform-declarations": "^5.1.0",
         "tns-core-modules": "^5.0.1",
         "tns-platform-declarations": "^5.1.0",
         "tslint": "^5.11.0",
