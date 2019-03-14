@@ -6,6 +6,6 @@ android {
 
 dependencies {
     // Describe plugin native Android dependencies like
-	// compile "groupName:pluginName:ver" 
-    // EXAMPLE: compile "com.facebook.fresco:fresco:0.9.0+"
+	// implementation "groupName:pluginName:ver" 
+    // EXAMPLE: implementation "com.facebook.fresco:fresco:0.9.0+"
 }
