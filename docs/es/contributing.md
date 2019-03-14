@@ -1,8 +1,14 @@
 ---
-title: Contribución
-description: Para facilitar el desarrollo y la depuración, continúe con los siguientes pasos.
-order: 2
+permalink: /docs/nativescript-vibrate/contributing
+created: "2015-04-11T12:25:00Z"
+description: "Para facilitar el desarrollo y la depuración, continúe con los siguientes pasos."
+published: "2018-02-27T22:09:31.149456Z"
+title: "Contribución"
+reading_time: 2
+word_count: 260
 ---
+
+<Canonical />
 
 # Contribución
 

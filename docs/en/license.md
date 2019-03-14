@@ -1,14 +1,21 @@
 ---
-title: License
-description: Terms and conditions intended to guarantee how NativeScript Vibrate must be used, modified and/or shared.
-order: 4
+permalink: /docs/nativescript-vibrate/license
+created: "2015-04-11T12:25:00Z"
+description: "Terms and conditions intended to guarantee how NativeScript Vibrate must be used, modified and/or shared."
+published: "2018-02-27T22:14:22Z"
+reading_time: 1
+slug: "license"
+title: "License"
+word_count: 172
 ---
+
+<Canonical />
 
 # License
 
 The MIT License (MIT)
 
-Copyright (c) 2018, Bazzite
+Copyright (c) 2019, Bazzite
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

@@ -1,8 +1,14 @@
 ---
-title: Overview
-description: A vibrate NativeScript plugin for Android and iOS
-order: 1
+permalink: /docs/nativescript-vibrate/
+created: "2015-04-11T12:25:00Z"
+description: "A vibrate NativeScript plugin for Android and iOS"
+published: "2018-02-27T16:27:00Z"
+title: "Overview"
+# reading_time: 2
+# word_count: 288
 ---
+
+<Canonical />
 
 # NativeScript Vibrate
 

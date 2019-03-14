@@ -1,8 +1,15 @@
 ---
-title: Change Log
-description: A record of all notable changes made to NativeScript Vibrate.
-order: 3
+permalink: /docs/nativescript-vibrate/changelog
+created: "2017-09-02T08:33:00Z"
+description: "A record of all notable changes made to NativeScript Vibrate."
+published: "2018-02-27T22:12:36Z"
+slug: "changelog"
+title: "Change Log"
+# reading_time: 1
+# word_count: 174
 ---
+
+<Canonical />
 
 # Change Log
 
