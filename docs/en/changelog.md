@@ -13,6 +13,10 @@ title: "Change Log"
 
 # Change Log
 
+## [v2.1.3](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.3) (2019-03-14)
+
+- Maintenance Update
+
 ## [v2.1.2](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.2) (2018-10-15)
 
 - Update some dependencies

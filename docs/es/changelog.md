@@ -12,6 +12,10 @@ word_count: 200
 
 # Registro de cambios
 
+## [v2.1.3](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.3) (2019-03-14)
+
+- Actualización de Mantenimiento
+
 ## [v2.1.2](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.2) (2018-10-15)
 
 - Actualización de algunas dependencies
