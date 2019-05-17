@@ -9,10 +9,10 @@
     }
   },
   "dependencies": {
-    "nativescript-theme-core": "^1.0.4",
-    "nativescript-unit-test-runner": "^0.5.1",
+    "nativescript-theme-core": "^1.0.6",
+    "nativescript-unit-test-runner": "^0.6.3",
     "nativescript-vibrate": "file:../src",
-    "tns-core-modules": "^5.2.0"
+    "tns-core-modules": "^5.4.0"
   },
   "devDependencies": {
     "jasmine-core": "^2.5.2",
@@ -21,8 +21,8 @@
     "karma-nativescript-launcher": "^0.4.0",
     "nativescript-css-loader": "~0.26.1",
     "nativescript-dev-typescript": "~0.9.0",
-    "nativescript-dev-webpack": "~0.20.0",
-    "tns-platform-declarations": "^5.2.0",
+    "nativescript-dev-webpack": "~0.22.0",
+    "tns-platform-declarations": "^5.4.0",
     "tslint": "~5.14.0"
   },
   "scripts": {
