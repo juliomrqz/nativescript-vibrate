@@ -79,11 +79,10 @@ Only one method is available: `vibrate().` Below are all the supported propertie
 
 ## Documentation & Support
 
-If you want extra details of how to configure and use this plugin, the full documentation is available at [https://www.bazzite.com/docs/nativescript-vibrate][documentation].
-
-For questions and support, use the [Issues section][issues].
-
-You may also want to [follow the company supporting this project on Twitter][twitter].
+- 📄 If you want **extra details** of how to configure and use this plugin, the full documentation is available at [https://www.bazzite.com/docs/nativescript-vibrate][documentation].
+- 🐞 For **Bug reports** or **Feature requests**, use the [Issues section][issues].
+- 💬 For **questions**, go to [https://spectrum.chat/bazzite/open-source][spectrum-chat].
+- 🚀 You may also want to [follow the company supporting this project on Twitter][twitter].
 
 ### Professional Support
 
@@ -111,6 +110,7 @@ Code released under the [MIT License][license-page].
 [code-of-conduct]: https://www.bazzite.com/open-source/code-of-conduct?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 [issues]: https://github.com/bazzite/nativescript-vibrate/issues
 [twitter]: https://twitter.com/BazziteTech
+[spectrum-chat]: https://spectrum.chat/bazzite/login?r=https://spectrum.chat/bazzite/open-source
 [bazzite-website]: https://www.bazzite.com?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 [contact-page]: https://www.bazzite.com/contact?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 [license-page]: https://www.bazzite.com/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
