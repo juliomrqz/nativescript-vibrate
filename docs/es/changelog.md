@@ -1,14 +1,11 @@
 ---
+title: "Registro de cambios"
+description: "Un registro de todos los cambios notables realizados en NativeScript Vibrate."
 permalink: /docs/nativescript-vibrate/changelog
 created: "2017-09-02T08:33:00Z"
-description: "Un registro de todos los cambios notables realizados en NativeScript Vibrate."
 published: "2018-02-27T22:12:36Z"
-title: "Registro de cambios"
-reading_time: 1
-word_count: 200
+modified: "2019-06-05T12:51:34.314Z"
 ---
-
-<Canonical />
 
 # Registro de cambios
 

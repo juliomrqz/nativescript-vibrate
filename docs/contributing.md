@@ -1,14 +1,11 @@
 ---
+title: "Contributing"
+description: "For easier development and debugging purposes continue with the following steps."
 permalink: /docs/nativescript-vibrate/contributing
 created: "2015-04-11T12:25:00Z"
-description: "For easier development and debugging purposes continue with the following steps."
 published: "2018-02-27T22:09:31.149456Z"
-title: "Contributing"
-# reading_time: 2
-# word_count: 250
+modified: "2019-06-05T12:51:34.314Z"
 ---
-
-<Canonical />
 
 # Contributing
 
