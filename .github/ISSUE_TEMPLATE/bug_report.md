@@ -1,10 +1,6 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
 ---
 
 ### Make sure to check the demo app(s) for sample usage 
