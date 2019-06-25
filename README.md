@@ -100,7 +100,7 @@ Everyone participating in this project is expected to agree to abide by the [Cod
 
 Code released under the [MIT License][license-page].
 
-![](https://ga-beacon.appspot.com/UA-130293414-2/nativescript/nativescript-version-tracking?pixel)
+![](https://ga-beacon.appspot.com/UA-65885578-17/bazzite/nativescript-vibrate?pixel)
 
 
 
