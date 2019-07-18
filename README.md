@@ -4,7 +4,6 @@
 [![version](https://img.shields.io/npm/v/nativescript-vibrate.svg)](https://www.npmjs.com/package/nativescript-vibrate)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://www.bazzite.com/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate?ref=badge_shield)
-[![Greenkeeper badge](https://badges.greenkeeper.io/bazzite/nativescript-vibrate.svg)](https://greenkeeper.io/)
 
 # NativeScript Vibrate ![apple](https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-32.png) ![android](https://cdn4.iconfinder.com/data/icons/logos-3/228/android-32.png) 
 
