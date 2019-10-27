@@ -1,14 +1,11 @@
 ---
+title: "Información general"
+description: "Un plugin para NativeScript que facilita la vibración de dispositivos Android e iOS"
 permalink: /docs/nativescript-vibrate/
 created: "2015-04-11T12:25:00Z"
-description: "Un plugin para NativeScript que facilita la vibración de dispositivos Android e iOS"
 published: "2018-02-27T16:27:00Z"
-title: "Información general"
-# reading_time: 2
-# word_count: 288
+modified: "2019-06-05T12:51:34.314Z"
 ---
-
-<Canonical />
 
 # NativeScript Vibrate
 

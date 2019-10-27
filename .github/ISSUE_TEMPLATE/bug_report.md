@@ -1,3 +1,8 @@
+---
+name: Bug report
+about: Create a report to help us improve
+---
+
 ### Make sure to check the demo app(s) for sample usage 
 
 ### Make sure to check the existing issues in this repository 
