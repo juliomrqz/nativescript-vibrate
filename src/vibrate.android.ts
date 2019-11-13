@@ -2,20 +2,16 @@ import { Common } from './vibrate.common';
 import * as app from 'tns-core-modules/application';
 
 export class Vibrate extends Common {
-    constructor() {
-        super();
-
-        this.service = app.android.context.getSystemService(android.content.Context.VIBRATOR_SERVICE);
-    }
+    private vibratorService;
 
     hasVibrator(): boolean {
-        return this.service.hasVibrator();
+        return this.getVibratorService().hasVibrator();
     }
 
     vibrate(param: number | number[] = 300, repeat: number = -1) {
         if (this.hasVibrator()) {
             if (typeof param === "number") {
-                this.service.vibrate(param);
+                this.getVibratorService().vibrate(param);
             } else {
                 // Define array pattern length
                 const patternLength = param.length;
@@ -27,12 +23,19 @@ export class Vibrate extends Common {
                 param.forEach((value, index) => { pattern[index] = value; });
 
                 // Vibrate pattern
-                this.service.vibrate(pattern, repeat);
+                this.getVibratorService().vibrate(pattern, repeat);
             }
         }
     }
 
     cancel() {
-        this.service.cancel();
+        this.getVibratorService().cancel();
+    }
+
+    private getVibratorService() {
+        if (!this.vibratorService) {
+            this.vibratorService = app.android.context.getSystemService(android.content.Context.VIBRATOR_SERVICE);
+        }
+        return this.vibratorService;
     }
 }
