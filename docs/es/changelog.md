@@ -4,10 +4,16 @@ description: "Un registro de todos los cambios notables realizados en NativeScri
 permalink: /docs/nativescript-vibrate/changelog
 created: "2017-09-02T08:33:00Z"
 published: "2018-02-27T22:12:36Z"
-modified: "2019-06-05T12:51:34.314Z"
+modified: "2019-11-21T14:47:24.071Z"
 ---
 
 # Registro de cambios
+
+## [v3.0.0](https://github.com/bazzite/nativescript-vibrate/tree/v3.0.0) (2019-11-21)
+
+- Actualiza las dependencies a NativeScript 6
+- Demora la obtención del servicio en Android hasta que sea necesario ([#85](https://github.com/bazzite/nativescript-vibrate/pull/85)), (gracias a [EddyVerbruggen](https://github.com/EddyVerbruggen))
+
 
 ## [v2.1.3](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.3) (2019-03-14)
 

@@ -1,5 +1,10 @@
 # Change Log
 
+## [v3.0.0](https://github.com/bazzite/nativescript-vibrate/tree/v3.0.0) (2019-11-21)
+
+- Bump dependencies to NativeScript 6
+- Delay getting the service on Android until needed ([#85](https://github.com/bazzite/nativescript-vibrate/pull/85)), (thanks to [EddyVerbruggen](https://github.com/EddyVerbruggen))
+
 ## [v2.1.3](https://github.com/bazzite/nativescript-vibrate/tree/v2.1.3) (2019-03-14)
 
 - Maintenance Update
