@@ -1,5 +1,5 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" class="page"
-  xmlns:ui="nativescript-vibrate">
+<Page class="page" navigatingTo="onNavigatingTo" xmlns="http://schemas.nativescript.org/tns.xsd">
+
   <StackLayout class="p-20">
     <Label text="Nativescript Vibrate" class="t-20 text-center c-black" textWrap="true"/>
     <Button tap="{{ basicVibrate }}" text="Basic vibrate" class="btn btn-primary" />
