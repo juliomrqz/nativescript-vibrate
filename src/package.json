@@ -44,13 +44,13 @@
 	"license": "MIT",
 	"homepage": "https://www.bazzite.com/docs/nativescript-vibrate",
 	"devDependencies": {
-		"tns-core-modules": "~6.1.2",
-		"tns-platform-declarations": "~6.1.2",
-		"typescript": "~3.4.5",
+		"tns-core-modules": "~6.2.1",
+		"tns-platform-declarations": "~6.2.1",
+		"typescript": "~3.7.2",
 		"prompt": "^1.0.0",
-		"rimraf": "^2.6.3",
-		"tslint": "^5.14.0",
-		"semver": "^6.1.2"
+		"rimraf": "^2.7.1",
+		"tslint": "^5.20.1",
+		"semver": "^6.3.0"
 	},
 	"dependencies": {},
 	"bootstrapper": "nativescript-plugin-seed"
