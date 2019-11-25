@@ -12,7 +12,7 @@
   "license": "SEE LICENSE IN <your-license-filename>",
   "repository": "<fill-your-repository-here>",
   "dependencies": {
-    "nativescript-theme-core": "1.0.6",
+    "nativescript-theme-core": "2.0.24",
     "nativescript-vibrate": "../src",
     "tns-core-modules": "6.2.1"
   },
