@@ -45,7 +45,7 @@
 	"homepage": "https://www.bazzite.com/docs/nativescript-vibrate",
 	"devDependencies": {
 		"tns-core-modules": "~6.2.1",
-		"tns-platform-declarations": "~6.2.1",
+		"tns-platform-declarations": "~6.2.3",
 		"typescript": "~3.7.2",
 		"prompt": "^1.0.0",
 		"rimraf": "^3.0.0",
