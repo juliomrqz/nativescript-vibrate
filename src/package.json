@@ -44,8 +44,8 @@
 	"license": "MIT",
 	"homepage": "https://www.bazzite.com/docs/nativescript-vibrate",
 	"devDependencies": {
-		"tns-core-modules": "~6.2.3",
-		"tns-platform-declarations": "~6.2.3",
+		"tns-core-modules": "~6.3.1",
+		"tns-platform-declarations": "~6.3.1",
 		"typescript": "~3.7.3",
 		"prompt": "^1.0.0",
 		"rimraf": "^3.0.0",
