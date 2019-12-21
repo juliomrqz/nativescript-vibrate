@@ -14,11 +14,11 @@
   "dependencies": {
     "nativescript-theme-core": "1.0.6",
     "nativescript-vibrate": "../src",
-    "tns-core-modules": "6.3.1"
+    "tns-core-modules": "6.3.2"
   },
   "devDependencies": {
     "nativescript-dev-webpack": "1.4.0",
-    "typescript": "~3.7.3"
+    "typescript": "~3.7.4"
   },
   "gitHead": "1964ea9e8ca1a0518e0d6370781eedcf6c23db42",
   "readme": "NativeScript Application"
