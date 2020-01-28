@@ -17,8 +17,8 @@
     "tns-core-modules": "6.3.2"
   },
   "devDependencies": {
-    "nativescript-dev-webpack": "1.4.0",
-    "typescript": "~3.7.4"
+    "nativescript-dev-webpack": "1.4.1",
+    "typescript": "~3.7.5"
   },
   "gitHead": "1964ea9e8ca1a0518e0d6370781eedcf6c23db42",
   "readme": "NativeScript Application"
