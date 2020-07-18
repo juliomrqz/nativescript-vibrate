@@ -1,13 +1,11 @@
 ---
 title: "Registro de cambios"
 description: "Un registro de todos los cambios notables realizados en NativeScript Vibrate."
-permalink: /docs/nativescript-vibrate/changelog
 created: "2017-09-02T08:33:00Z"
 published: "2018-02-27T22:12:36Z"
-modified: "2019-11-21T14:47:24.071Z"
+position: 3
+category: "Primeros Pasos"
 ---
-
-# Registro de cambios
 
 ## [v3.0.0](https://github.com/bazzite/nativescript-vibrate/tree/v3.0.0) (2019-11-21)
 

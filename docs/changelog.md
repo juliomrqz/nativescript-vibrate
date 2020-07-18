@@ -1,13 +1,12 @@
 ---
-title: "Change Log"
+title: "Changelog"
 description: "A record of all notable changes made to NativeScript Vibrate."
-permalink: /docs/nativescript-vibrate/changelog
 created: "2017-09-02T08:33:00Z"
 published: "2018-02-27T22:12:36Z"
-modified: "2019-11-21T14:47:24.071Z"
+modified: "2020-07-17T21:52:22Z"
+position: 3
+category: "Getting started"
 ---
-
-# Change Log
 
 ## [v3.0.0](https://github.com/bazzite/nativescript-vibrate/tree/v3.0.0) (2019-11-21)
 

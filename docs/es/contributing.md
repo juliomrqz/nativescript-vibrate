@@ -1,13 +1,12 @@
 ---
 title: "Contribución"
 description: "Para facilitar el desarrollo y la depuración, continúe con los siguientes pasos."
-permalink: /docs/nativescript-vibrate/contributing
 created: "2015-04-11T12:25:00Z"
-published: "2018-02-27T22:09:31.149456Z"
-modified: "2019-06-05T12:51:34.314Z"
+published: "2018-02-27T22:09:31Z"
+modified: "2020-07-17T21:52:22Z"
+position: 2
+category: "Primeros Pasos"
 ---
-
-# Contribución
 
 ## Configuración de desarrollo
 
