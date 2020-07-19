@@ -40,7 +40,7 @@ A veces puedes que necesites borrar las carpetas `node_modules` y `demo/platform
 **Siga estos pasos básicos para simplificar las revisiones de los pull request; si no lo hace, probablemente se lo pidan de todos modos.**
 
 * Por favor rebase tu rama contra la rama maestro actual
-* Haga referencia a posibles [problemas](https://github.com/bazzite/nativescript-vibrate/issues) en el comentario del PR
+* Haga referencia a posibles [problemas](https://github.com/juliomrqz/nativescript-vibrate/issues) en el comentario del PR
 
 ## Envío de reportes de errores
 

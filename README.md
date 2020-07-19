@@ -1,9 +1,8 @@
-[![Bazzite Project](https://img.shields.io/badge/Bazzite-project-blue.svg)](https://www.bazzite.com/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate)
-[![Codacy Badge](https://img.shields.io/codacy/grade/a40541d66db746bcb6669b7f30fd498d.svg)](https://www.codacy.com/app/bazzite/nativescript-vibrate?utm_source=github.com&utm_medium=referral&utm_content=bazzite/nativescript-vibrate&utm_campaign=badger)
-[![Travis](https://img.shields.io/travis/bazzite/nativescript-vibrate/master.svg)](https://travis-ci.org/bazzite/nativescript-vibrate)
+[![Codacy Badge](https://img.shields.io/codacy/grade/a40541d66db746bcb6669b7f30fd498d.svg)](https://www.codacy.com/app/juliomrqz/nativescript-vibrate?utm_source=github.com&utm_medium=referral&utm_content=juliomrqz/nativescript-vibrate&utm_campaign=badger)
+[![Travis](https://img.shields.io/travis/juliomrqz/nativescript-vibrate/master.svg)](https://travis-ci.org/juliomrqz/nativescript-vibrate)
 [![version](https://img.shields.io/npm/v/nativescript-vibrate.svg)](https://www.npmjs.com/package/nativescript-vibrate)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://www.bazzite.com/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate?ref=badge_shield)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://marquez.co/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjuliomrqz%2Fnativescript-vibrate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjuliomrqz%2Fnativescript-vibrate?ref=badge_shield)
 
 # NativeScript Vibrate ![apple](https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-32.png) ![android](https://cdn4.iconfinder.com/data/icons/logos-3/228/android-32.png) 
 
@@ -78,14 +77,14 @@ Only one method is available: `vibrate().` Below are all the supported propertie
 
 ## Documentation & Support
 
-- 📄 If you want **extra details** of how to configure and use this plugin, the full documentation is available at [https://www.bazzite.com/docs/nativescript-vibrate][documentation].
+- 📄 If you want **extra details** of how to configure and use this plugin, the full documentation is available at [https://marquez.co/docs/nativescript-vibrate][documentation].
 - 🐞 For **Bug reports** or **Feature requests**, use the [Issues section][issues].
-- 💬 For **questions**, go to [https://spectrum.chat/bazzite/open-source][spectrum-chat].
-- 🚀 You may also want to [follow the company supporting this project on Twitter][twitter].
+- 💬 For **questions**, you can also use the [Issues section][issues].
+- 🚀 You may also want to [follow me on Twitter][twitter].
 
 ### Professional Support
 
-This project is sponsored by [Bazzite][bazzite-website]. If you require assistance on your project(s), please contact us at [https://www.bazzite.com/contact][contact-page].
+This project is sponsored by me, [a Full Stack Developer][marquez-website]. If you require assistance on your project(s), please contact me at [https://marquez.co][marquez-website].
 
 ## Contributing
 
@@ -99,20 +98,18 @@ Everyone participating in this project is expected to agree to abide by the [Cod
 
 Code released under the [MIT License][license-page].
 
-![](https://ga-beacon.appspot.com/UA-65885578-17/bazzite/nativescript-vibrate?pixel)
+![](https://ga-beacon.appspot.com/UA-65885578-17/juliomrqz/nativescript-vibrate?pixel)
 
 
 
-[documentation]: https://www.bazzite.com/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
-[documentation-es]: https://www.bazzite.com/es/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
-[contributing]: https://www.bazzite.com/docs/nativescript-vibrate/contributing?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
-[code-of-conduct]: https://www.bazzite.com/open-source/code-of-conduct?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
-[issues]: https://github.com/bazzite/nativescript-vibrate/issues
-[twitter]: https://twitter.com/BazziteTech
-[spectrum-chat]: https://spectrum.chat/bazzite/login?r=https://spectrum.chat/bazzite/open-source
-[bazzite-website]: https://www.bazzite.com?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
-[contact-page]: https://www.bazzite.com/contact?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
-[license-page]: https://www.bazzite.com/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
+[documentation]: https://marquez.co/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
+[documentation-es]: https://marquez.co/es/docs/nativescript-vibrate?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
+[contributing]: https://marquez.co/docs/nativescript-vibrate/contributing?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
+[code-of-conduct]: https://www.contributor-covenant.org/version/2/0/code_of_conduct/
+[issues]: https://github.com/juliomrqz/nativescript-vibrate/issues
+[twitter]: https://twitter.com/juliomrqz
+[marquez-website]: https://marquez.co?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
+[license-page]: https://marquez.co/docs/nativescript-vibrate/license?utm_source=github&utm_medium=readme&utm_campaign=nativescript-vibrate
 
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbazzite%2Fnativescript-vibrate?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuliomrqz%2Fnativescript-vibrate.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuliomrqz%2Fnativescript-vibrate?ref=badge_large)

@@ -1,6 +1,6 @@
 {
   "extends": [
-    "@bazzite"
+    "@nuxtjs"
   ],
   "schedule": [
     "after 10pm every weekday",

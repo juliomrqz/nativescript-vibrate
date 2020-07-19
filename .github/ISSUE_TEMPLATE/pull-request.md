@@ -10,7 +10,7 @@ assignees: ''
 <!--
 Thank you for your contribution! 
 
-Please make sure to read the Contributing Guidelines (https://www.bazzite.com/docs/nativescript-vibrate/contributing) before Submitting a Pull Request.
+Please make sure to read the Contributing Guidelines (https://marquez.co/docs/nativescript-vibrate/contributing) before Submitting a Pull Request.
 
 If your issue doesn't follow the Guidelines above, it will be closed immediately.
 -->
@@ -20,7 +20,7 @@ If your issue doesn't follow the Guidelines above, it will be closed immediately
 
 ## PR Checklist
 
-- [ ] The PR title follows our guidelines: https://github.com/bazzite/nativescript-vibrate/blob/develop/CONTRIBUTING.md.
+- [ ] The PR title follows our guidelines: https://github.com/juliomrqz/nativescript-vibrate/blob/develop/CONTRIBUTING.md.
 - [ ] There is an issue for the bug/feature this PR is for. To avoid wasting your time, it's best to open a suggestion issue first and wait for approval before working on it.
 - [ ] All existing tests are passing
 - [ ] Tests for the changes are included
