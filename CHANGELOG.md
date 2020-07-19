@@ -1,5 +1,16 @@
 # Change Log
 
+# [v3.1.0](https://github.com/juliomrqz/nativescript-vibrate/compare/v3.0.0...v3.1.0) (2020-07-19)
+
+* dependencies updates
+
+### Refactor
+
+* update layout of docs articles ([b59869c](https://github.com/juliomrqz/nativescript-vibrate/commit/b59869c01ad101e78f49ae4d32b5b499ce4c82c9))
+* update project owner ([d52289b](https://github.com/juliomrqz/nativescript-vibrate/commit/d52289b83ccb876924419bd5ea09e5c783581aa6))
+
+
+
 ## [v3.0.0](https://github.com/juliomrqz/nativescript-vibrate/tree/v3.0.0) (2019-11-21)
 
 - Bump dependencies to NativeScript 6
