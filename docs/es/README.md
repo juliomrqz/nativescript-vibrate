@@ -1,9 +1,9 @@
 ---
 title: "Información general"
 description: "Un plugin para NativeScript que facilita la vibración de dispositivos Android e iOS"
-created: "2015-04-11T12:25:00Z"
-published: "2018-02-27T16:27:00Z"
-modified: "2020-07-17T21:52:22Z"
+createdAt: "2015-04-11T12:25:00Z"
+publishedAt: "2018-02-27T16:27:00Z"
+updatedAt: "2020-07-17T21:52:22Z"
 position: 1
 category: "Primeros Pasos"
 ---

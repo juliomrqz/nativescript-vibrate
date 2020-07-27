@@ -1,9 +1,9 @@
 ---
 title: "Contributing"
 description: "For easier development and debugging purposes continue with the following steps."
-created: "2015-04-11T12:25:00Z"
-published: "2018-02-27T22:09:31Z"
-modified: "2020-07-17T21:52:22Z"
+createdAt: "2015-04-11T12:25:00Z"
+publishedAt: "2018-02-27T22:09:31Z"
+updatedAt: "2020-07-17T21:52:22Z"
 position: 2
 category: "Getting started"
 ---
@@ -42,7 +42,7 @@ Sometimes you may need to wipe away the `node_modules` and `demo/platforms` fold
 **Please follow these basic steps to simplify pull request reviews - if you don't you'll probably just be asked to anyway.**
 
 * Please rebase your branch against the current master
-* Make reference to possible [issues](https://github.com/juliomrqz/nativescript-vibrate/issues) on PR comment
+* Make reference to possible [issues](https://github.com/bazzite/nativescript-vibrate/issues) on PR comment
 
 ## Submitting bug reports
 
