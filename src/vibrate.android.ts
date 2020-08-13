@@ -1,5 +1,5 @@
 import { Common } from './vibrate.common';
-import * as app from 'tns-core-modules/application';
+import { Application } from '@nativescript/core';
 
 export class Vibrate extends Common {
     private vibratorService;
@@ -34,7 +34,7 @@ export class Vibrate extends Common {
 
     private getVibratorService() {
         if (!this.vibratorService) {
-            this.vibratorService = app.android.context.getSystemService(android.content.Context.VIBRATOR_SERVICE);
+            this.vibratorService = Application.android.context.getSystemService(android.content.Context.VIBRATOR_SERVICE);
         }
         return this.vibratorService;
     }
