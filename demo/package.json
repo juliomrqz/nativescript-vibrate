@@ -12,12 +12,12 @@
   "license": "SEE LICENSE IN <your-license-filename>",
   "repository": "<fill-your-repository-here>",
   "dependencies": {
-    "nativescript-theme-core": "1.0.6",
+    "nativescript-theme-core": "2.0.24",
     "nativescript-vibrate": "../src",
-    "tns-core-modules": "6.3.2"
+    "tns-core-modules": "6.5.15"
   },
   "devDependencies": {
-    "nativescript-dev-webpack": "1.4.1",
+    "nativescript-dev-webpack": "1.5.1",
     "typescript": "~3.7.5"
   },
   "gitHead": "1964ea9e8ca1a0518e0d6370781eedcf6c23db42",
