@@ -1,5 +1,15 @@
 # Change Log
 
+
+# [v4.0.0](https://github.com/juliomrqz/nativescript-vibrate/compare/v3.1.0...v4.0.0) (2020-09-02)
+
+- Support NativeScript 7 ([#126](https://github.com/juliomrqz/nativescript-vibrate/pull/126)), (thanks to [EddyVerbruggen](https://github.com/EddyVerbruggen))
+
+### BREAKING CHANGES
+
+* **minimum required NativeScript version is 7**
+
+
 # [v3.1.0](https://github.com/juliomrqz/nativescript-vibrate/compare/v3.0.0...v3.1.0) (2020-07-19)
 
 * dependencies updates
