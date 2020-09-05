@@ -1,6 +1,14 @@
 # Change Log
 
 
+# [v4.0.1](https://github.com/juliomrqz/nativescript-vibrate/compare/v4.0.0...v4.0.1) (2020-09-02)
+
+* fix typing errors ([8d46ed0d](https://github.com/juliomrqz/nativescript-vibrate/commit/8d46ed0dea82818601bd8df2bf5daea5aa13e315))
+
+### Refactor
+
+* upgrade demo to NativeScript v7 ([e6d7797f](https://github.com/juliomrqz/nativescript-vibrate/commit/e6d7797fb81a8b0b9af221c423012a5eba381487))
+
 # [v4.0.0](https://github.com/juliomrqz/nativescript-vibrate/compare/v3.1.0...v4.0.0) (2020-09-02)
 
 - Support NativeScript 7 ([#126](https://github.com/juliomrqz/nativescript-vibrate/pull/126)), (thanks to [EddyVerbruggen](https://github.com/EddyVerbruggen))
