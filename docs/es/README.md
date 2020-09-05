@@ -17,7 +17,7 @@ Un plugin para NativeScript que facilita la vibración de dispositivos Android e
 Ejecuta el siguiente comando desde la raíz de tu proyecto:
 
 ```bash
-$ tns plugin add nativescript-vibrate
+$ ns plugin add nativescript-vibrate
 ```
 
 Este comando instala automáticamente los archivos necesarios, así como almacena **nativescript-vibrate** como una dependencia en el archivo **package.json** de tu proyecto.

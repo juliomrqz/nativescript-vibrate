@@ -15,7 +15,7 @@ A vibrate NativeScript plugin for Android and iOS
 Run the following command from the root of your project:
 
 ```bash
-$ tns plugin add nativescript-vibrate
+$ ns plugin add nativescript-vibrate
 ```
 
 This command automatically installs the necessary files, as well as stores **nativescript-vibrate** as a dependency in your project's **package.json** file.

@@ -1,5 +1,5 @@
+import { Observable } from '@nativescript/core';
 import { Vibrate } from 'nativescript-vibrate';
-import { Observable } from "tns-core-modules/data/observable";
 
 export class HomeViewModel extends Observable {
     public hasVibrator: string;

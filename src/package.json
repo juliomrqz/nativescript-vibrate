@@ -17,10 +17,10 @@
 		"tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude \"**/node_modules/**\"",
 		"ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**' --exclude '**/platforms/**'",
 		"prepack": "npm run build.native",
-		"demo.ios": "npm i && cd ../demo && tns run ios",
-		"demo.android": "npm i && cd ../demo && tns run android",
+		"demo.ios": "npm i && cd ../demo && ns run ios",
+		"demo.android": "npm i && cd ../demo && ns run android",
 		"demo.reset": "cd ../demo && npx rimraf -- hooks node_modules platforms package-lock.json",
-		"plugin.prepare": "npm run build && cd ../demo && tns plugin remove nativescript-vibrate && tns plugin add ../src && tns plugin remove nativescript-vibrate && tns plugin add ../src",
+		"plugin.prepare": "npm run build && cd ../demo && ns plugin remove nativescript-vibrate && ns plugin add ../src && ns plugin remove nativescript-vibrate && ns plugin add ../src",
 		"clean": "npm run demo.reset && npx rimraf -- node_modules package-lock.json && npm i"
 	},
 	"keywords": [
