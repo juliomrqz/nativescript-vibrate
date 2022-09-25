@@ -9,7 +9,7 @@
     "nativescript-vibrate": "../src"
   },
   "devDependencies": {
-    "@nativescript/ios": "7.0.0",
+    "@nativescript/ios": "8.3.3",
     "typescript": "3.9.7"
   },
   "gitHead": "1964ea9e8ca1a0518e0d6370781eedcf6c23db42",
