@@ -45,7 +45,7 @@
 	"homepage": "https://marquez.co/docs/nativescript-vibrate",
 	"devDependencies": {
 		"@nativescript/core": "^7.0.0",
-		"@nativescript/types": "^7.0.1",
+		"@nativescript/types": "^8.3.1",
 		"prompt": "^1.0.0",
 		"rimraf": "3.0.2",
 		"semver": "^7.3.2",
