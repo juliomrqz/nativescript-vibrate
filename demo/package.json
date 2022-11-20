@@ -3,14 +3,14 @@
   "license": "SEE LICENSE IN <your-license-filename>",
   "repository": "<fill-your-repository-here>",
   "dependencies": {
-    "@nativescript/core": "7.0.0",
-    "@nativescript/theme": "^2.3.3",
-    "@nativescript/webpack": "3.0.1",
+    "@nativescript/core": "7.3.0",
+    "@nativescript/theme": "^2.5.0",
+    "@nativescript/webpack": "3.0.9",
     "nativescript-vibrate": "../src"
   },
   "devDependencies": {
-    "@nativescript/ios": "7.0.0",
-    "typescript": "3.9.7"
+    "@nativescript/ios": "7.2.0",
+    "typescript": "3.9.10"
   },
   "gitHead": "1964ea9e8ca1a0518e0d6370781eedcf6c23db42",
   "readme": "NativeScript Application",
