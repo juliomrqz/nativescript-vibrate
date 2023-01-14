@@ -5,7 +5,7 @@
   "dependencies": {
     "@nativescript/core": "7.0.0",
     "@nativescript/theme": "^2.3.3",
-    "@nativescript/webpack": "3.0.1",
+    "@nativescript/webpack": "5.0.12",
     "nativescript-vibrate": "../src"
   },
   "devDependencies": {
